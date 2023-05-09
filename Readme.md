@@ -5,6 +5,9 @@ This project is a React application that allows users to add food items to a car
 ## ScreenShots
 
 Landing Page View :  https://raw.githubusercontent.com/shahzaibrehman123/Food-Mania/main/src/assets/app-view.png
+
+
+
 Cart View :          https://raw.githubusercontent.com/shahzaibrehman123/Food-Mania/main/src/assets/cart-view.png
 
 ## Features
